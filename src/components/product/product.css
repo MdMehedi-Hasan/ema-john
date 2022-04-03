@@ -5,6 +5,16 @@
     position: relative;
     height: 508px;
 }
+@media screen and (max-width:688px) {
+    .perProduct{
+        height: 588px;
+    }
+}
+@media screen and (min-width:689px) and (max-width:992px) {
+    .perProduct{
+        height: 588px;
+    }
+}
 .perProduct img{
     width: 100%;
     border-radius: 8px;
