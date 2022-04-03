@@ -3,7 +3,6 @@ import './cart.css'
 
 const Cart = (props) => {
     // console.log(props.cart)
-    const {} = props.cart
     return (
         <div className='cart-wrapper'>
             <div className="sticky">
