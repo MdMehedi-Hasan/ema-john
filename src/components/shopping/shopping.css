@@ -2,3 +2,10 @@
     display: grid;
     grid-template-columns: 4fr 1fr;
 }
+.pro-con{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap:45px;
+        margin:0px 20px;
+        margin-top: 120px;
+}

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+/* import React, { useEffect, useState } from 'react';
 import Product from '../product/Product';
 import './products.css'
 
@@ -18,4 +18,4 @@ const Products = () => {
     );
 };
 
-export default Products;
+export default Products; */
